@@ -1,1 +1,1 @@
-# student_database_sql
+#### Using SQL script to create of Database and Table
